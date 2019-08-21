@@ -1,0 +1,3 @@
+C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Source\ProjectFoil\ProjectFoil.Build.cs
+C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Source\ProjectFoil.Target.cs
+C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Source\ProjectFoilEditor.Target.cs

@@ -1,20 +1,20 @@
-C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
-c:\users\u1212719\desktop\study\projects_2\preojectfoil\projectfoil\source\projectfoil\ProjectFoilGameMode.h
+C:\Users\u1218485\Documents\GitHub\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
+c:\users\u1218485\documents\github\preojectfoil\projectfoil\source\projectfoil\ProjectFoilGameMode.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilGameMode.generated.h
-c:\users\u1212719\desktop\study\projects_2\preojectfoil\projectfoil\source\projectfoil\ProjectFoilHUD.h
+C:\Users\u1218485\Documents\GitHub\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilGameMode.generated.h
+c:\users\u1218485\documents\github\preojectfoil\projectfoil\source\projectfoil\ProjectFoilHUD.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilHUD.generated.h
-c:\users\u1212719\desktop\study\projects_2\preojectfoil\projectfoil\source\projectfoil\ProjectFoilCharacter.h
+C:\Users\u1218485\Documents\GitHub\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilHUD.generated.h
+c:\users\u1218485\documents\github\preojectfoil\projectfoil\source\projectfoil\ProjectFoilCharacter.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilCharacter.generated.h
+C:\Users\u1218485\Documents\GitHub\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilCharacter.generated.h

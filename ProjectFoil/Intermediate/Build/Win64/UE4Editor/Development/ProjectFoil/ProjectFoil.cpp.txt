@@ -1,2 +1,2 @@
-C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
-c:\users\u1212719\desktop\study\projects_2\preojectfoil\projectfoil\source\projectfoil\ProjectFoil.h
+C:\Users\u1218485\Documents\GitHub\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
+c:\users\u1218485\documents\github\preojectfoil\projectfoil\source\projectfoil\ProjectFoil.h

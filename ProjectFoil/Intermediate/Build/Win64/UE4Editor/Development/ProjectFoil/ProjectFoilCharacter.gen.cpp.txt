@@ -1,9 +1,9 @@
-C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
+C:\Users\u1218485\Documents\GitHub\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\u1212719\Desktop\Study\Projects_2\PreojectFoil\ProjectFoil\Source\ProjectFoil/ProjectFoilCharacter.h
+C:\Users\u1218485\Documents\GitHub\PreojectFoil\ProjectFoil\Source\ProjectFoil/ProjectFoilCharacter.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-c:\users\u1212719\desktop\study\projects_2\preojectfoil\projectfoil\intermediate\build\win64\ue4editor\inc\projectfoil\ProjectFoilCharacter.generated.h
+c:\users\u1218485\documents\github\preojectfoil\projectfoil\intermediate\build\win64\ue4editor\inc\projectfoil\ProjectFoilCharacter.generated.h

@@ -1,2 +1,2 @@
-D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
-d:\ue projects\project foil\projectfoil\source\projectfoil\ProjectFoil.h
+D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
+d:\foil\preojectfoil\projectfoil\source\projectfoil\ProjectFoil.h

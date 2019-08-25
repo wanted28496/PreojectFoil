@@ -1,9 +1,9 @@
-D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\UE projects\Project foil\ProjectFoil\Source\ProjectFoil/ProjectFoilGameMode.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-d:\ue projects\project foil\projectfoil\intermediate\build\win64\ue4editor\inc\projectfoil\ProjectFoilGameMode.generated.h
+D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil/ProjectFoilGameMode.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+d:\foil\preojectfoil\projectfoil\intermediate\build\win64\ue4editor\inc\projectfoil\ProjectFoilGameMode.generated.h

@@ -1,20 +1,20 @@
-D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
-d:\ue projects\project foil\projectfoil\source\projectfoil\ProjectFoilGameMode.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilGameMode.generated.h
-d:\ue projects\project foil\projectfoil\source\projectfoil\ProjectFoilHUD.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-D:\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-D:\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilHUD.generated.h
-d:\ue projects\project foil\projectfoil\source\projectfoil\ProjectFoilCharacter.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-D:\UE4\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-D:\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-D:\UE4\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilCharacter.generated.h
+D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
+d:\foil\preojectfoil\projectfoil\source\projectfoil\ProjectFoilGameMode.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilGameMode.generated.h
+d:\foil\preojectfoil\projectfoil\source\projectfoil\ProjectFoilHUD.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilHUD.generated.h
+d:\foil\preojectfoil\projectfoil\source\projectfoil\ProjectFoilCharacter.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil\ProjectFoilCharacter.generated.h

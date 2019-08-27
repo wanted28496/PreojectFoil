@@ -66,4 +66,22 @@
       <Filter>Source\ProjectFoil</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\ProjectFoil\Public">
+      <UniqueIdentifier>{0fe18169-4bdb-44fc-93b4-4248fbd44ee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ProjectFoil\Private">
+      <UniqueIdentifier>{9fae2c98-9d44-44ed-b788-dbd5b4fb88b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ProjectFoil\Public\InteractableObjects.h">
+      <Filter>Source\ProjectFoil\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ProjectFoil\Private\InteractableObjects.cpp">
+      <Filter>Source\ProjectFoil\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

@@ -13,5 +13,5 @@ AProjectFoilGameMode::AProjectFoilGameMode()
 	DefaultPawnClass = PlayerPawnClassFinder.Class;
 
 	// use our custom HUD class
-	HUDClass = AProjectFoilHUD::StaticClass();
+	//HUDClass = AProjectFoilHUD::StaticClass();
 }

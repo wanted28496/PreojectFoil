@@ -2798,3 +2798,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.27-17.06.39:247][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
 [2019.08.27-17.06.39:451][955]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype32DB9E1C4A69DCD1F7C2BC95D6D26589.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap'
 [2019.08.27-17.06.40:383][955]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltDataA8A6A7F645CE0CF54302A0948DA98C3E.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData.uasset'
+[2019.08.27-17.09.31:307][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.08.27-17.09.31:401][712]LogAIModule: Creating AISystem for world Prototype_2
+[2019.08.27-17.09.37:781][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.08.27-17.09.37:838][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.08.27-17.09.38:052][247]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_2D01C2ED2460D3ABB5C531BB07FB259C8.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_2.umap'
+[2019.08.27-17.09.38:069][247]LogFileHelpers: Saving map 'Prototype_2' took 0.280
+[2019.08.27-17.09.38:982][247]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_2_BuiltDataDC7855774BCAA84FEEF42081E27C6E79.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_2_BuiltData.uasset'
+[2019.08.27-17.09.39:892][247]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltData_29ED63AD849C076759DAC988AE272015F.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData_2.uasset'

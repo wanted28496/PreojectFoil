@@ -2135,3 +2135,666 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.27-15.34.46:613][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
 [2019.08.27-15.34.46:750][581]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/John_MAPE38740664F8A402C391A438DF29F08DC.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/FirstPersonCPP/Maps/John_MAP.umap'
 [2019.08.27-15.34.47:878][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.44.46:751][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.08.27-15.44.46:751][979]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/John_MAP' took 0.022
+[2019.08.27-15.44.46:752][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_InnerShell] ([1] browsable assets)...
+[2019.08.27-15.44.46:771][979]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Shell_Sections/Materials_Storage/Storage_InnerShell.Storage_InnerShell]
+[2019.08.27-15.44.46:771][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_InnerShell]
+[2019.08.27-15.44.46:794][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_InnerShell_Auto1DC1D207147E3AE63455513AD176C48CF.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_InnerShell_Auto1.uasset'
+[2019.08.27-15.44.46:795][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_BaseColor] ([1] browsable assets)...
+[2019.08.27-15.44.46:801][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_BaseColor.Storage_Shell_02_Interactable_Box_BaseColor]
+[2019.08.27-15.44.46:801][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_BaseColor]
+[2019.08.27-15.44.46:812][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Interactable_BoEFF72B9B4624A4DFD96802AC044CA242.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_BaseColor_Auto1.uasset'
+[2019.08.27-15.44.46:812][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Emissive] ([1] browsable assets)...
+[2019.08.27-15.44.46:816][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Emissive.Storage_Shell_02_Interactable_Box_Emissive]
+[2019.08.27-15.44.46:816][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Emissive]
+[2019.08.27-15.44.46:823][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Interactable_BoADB3315741947E3B83702FB618B1E16E.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Emissive_Auto1.uasset'
+[2019.08.27-15.44.46:824][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Normal] ([1] browsable assets)...
+[2019.08.27-15.44.46:830][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Normal.Storage_Shell_02_Interactable_Box_Normal]
+[2019.08.27-15.44.46:830][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Normal]
+[2019.08.27-15.44.46:840][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Interactable_BoD846C2AE4F4FD4587B57CDBB841EED0D.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Normal_Auto1.uasset'
+[2019.08.27-15.44.46:841][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_BaseColor] ([1] browsable assets)...
+[2019.08.27-15.44.46:847][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_BaseColor.Storage_Shell_02_Storage_InnerShell_BaseColor]
+[2019.08.27-15.44.46:847][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_BaseColor]
+[2019.08.27-15.44.46:860][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_InnerShF614724A4C458C86BB11288BA06FBA10.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_BaseColor_Auto1.uasset'
+[2019.08.27-15.44.46:861][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Emissive] ([1] browsable assets)...
+[2019.08.27-15.44.46:864][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Emissive.Storage_Shell_02_Storage_InnerShell_Emissive]
+[2019.08.27-15.44.46:864][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Emissive]
+[2019.08.27-15.44.46:875][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_InnerSh218B178E4C5A63B5F07B6F8CD6325E0A.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Emissive_Auto1.uasset'
+[2019.08.27-15.44.46:876][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Normal] ([1] browsable assets)...
+[2019.08.27-15.44.46:882][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Normal.Storage_Shell_02_Storage_InnerShell_Normal]
+[2019.08.27-15.44.46:882][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Normal]
+[2019.08.27-15.44.46:898][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_InnerShCCD1F5CF44F6306B07DC08A2BA9A90F6.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Normal_Auto1.uasset'
+[2019.08.27-15.44.46:898][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_BaseColor] ([1] browsable assets)...
+[2019.08.27-15.44.46:905][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_BaseColor.Storage_Shell_02_Storage_OuterShell_BaseColor]
+[2019.08.27-15.44.46:905][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_BaseColor]
+[2019.08.27-15.44.46:915][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_OuterSh3DEF50B94A827F66904422AA5BF37F4B.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_BaseColor_Auto1.uasset'
+[2019.08.27-15.44.46:916][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_Normal] ([1] browsable assets)...
+[2019.08.27-15.44.46:922][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_Normal.Storage_Shell_02_Storage_OuterShell_Normal]
+[2019.08.27-15.44.46:922][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_Normal]
+[2019.08.27-15.44.46:934][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_OuterSh4121780B420ECE09E5F223BC13A13F77.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_Normal_Auto1.uasset'
+[2019.08.27-15.44.46:935][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_BaseColor] ([1] browsable assets)...
+[2019.08.27-15.44.46:941][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_BaseColor.Storage_Shell_02_WallPiece_InnerColumn_BaseColor]
+[2019.08.27-15.44.46:941][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_BaseColor]
+[2019.08.27-15.44.46:952][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_InnerC05720184668DF5C4C3425B1461A5B36.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_BaseColor_Auto1.uasset'
+[2019.08.27-15.44.46:952][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_Normal] ([1] browsable assets)...
+[2019.08.27-15.44.46:958][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_Normal.Storage_Shell_02_WallPiece_InnerColumn_Normal]
+[2019.08.27-15.44.46:958][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_Normal]
+[2019.08.27-15.44.46:969][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_Inner6D7FFA9F46EB96D008B664868D5F0689.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_Normal_Auto1.uasset'
+[2019.08.27-15.44.46:970][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_BaseColor] ([1] browsable assets)...
+[2019.08.27-15.44.46:976][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_BaseColor.Storage_Shell_02_WallPiece_ServerBox_BaseColor]
+[2019.08.27-15.44.46:976][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_BaseColor]
+[2019.08.27-15.44.46:990][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_Serve8ED0239847733BEAB7FFEDAD742E276D.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_BaseColor_Auto1.uasset'
+[2019.08.27-15.44.46:991][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Emissive] ([1] browsable assets)...
+[2019.08.27-15.44.46:995][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Emissive.Storage_Shell_02_WallPiece_ServerBox_Emissive]
+[2019.08.27-15.44.46:995][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Emissive]
+[2019.08.27-15.44.47:005][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_Serve495E7D8740321FC1D821CDB6E9A0368F.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Emissive_Auto1.uasset'
+[2019.08.27-15.44.47:006][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Normal] ([1] browsable assets)...
+[2019.08.27-15.44.47:012][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Normal.Storage_Shell_02_WallPiece_ServerBox_Normal]
+[2019.08.27-15.44.47:012][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Normal]
+[2019.08.27-15.44.47:026][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_ServeBF4E783D452B910698CC48A3644F980C.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Normal_Auto1.uasset'
+[2019.08.27-15.44.47:027][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_BaseColor] ([1] browsable assets)...
+[2019.08.27-15.44.47:033][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_BaseColor.Storage_Shell_02_Window_inner_piece_BaseColor]
+[2019.08.27-15.44.47:033][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_BaseColor]
+[2019.08.27-15.44.47:043][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Window_inner_pi1FC97E4244E807A1644EBAA2B3FE5624.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_BaseColor_Auto1.uasset'
+[2019.08.27-15.44.47:044][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_Normal] ([1] browsable assets)...
+[2019.08.27-15.44.47:049][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_Normal.Storage_Shell_02_Window_inner_piece_Normal]
+[2019.08.27-15.44.47:049][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_Normal]
+[2019.08.27-15.44.47:060][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Window_inner_pi93BEB43345C2A5EA550ABC872A24AB74.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_Normal_Auto1.uasset'
+[2019.08.27-15.44.47:061][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_BaseColor] ([1] browsable assets)...
+[2019.08.27-15.44.47:067][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_BaseColor.BaseShell_pasted__Storage_InnerShell_BaseColor]
+[2019.08.27-15.44.47:067][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_BaseColor]
+[2019.08.27-15.44.47:080][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_InnerS80B5AC3F4EBC2C18126203AB2684E70C.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_BaseColor_Auto1.uasset'
+[2019.08.27-15.44.47:081][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Emissive] ([1] browsable assets)...
+[2019.08.27-15.44.47:085][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Emissive.BaseShell_pasted__Storage_InnerShell_Emissive]
+[2019.08.27-15.44.47:085][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Emissive]
+[2019.08.27-15.44.47:095][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_InnerSAFACF4B7447B146B5AD907B2E91651AB.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Emissive_Auto1.uasset'
+[2019.08.27-15.44.47:096][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Normal] ([1] browsable assets)...
+[2019.08.27-15.44.47:102][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Normal.BaseShell_pasted__Storage_InnerShell_Normal]
+[2019.08.27-15.44.47:102][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Normal]
+[2019.08.27-15.44.47:117][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_InnerS478F2F9B437DF46A435E7FA3A26C8FDD.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Normal_Auto1.uasset'
+[2019.08.27-15.44.47:117][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_BaseColor] ([1] browsable assets)...
+[2019.08.27-15.44.47:123][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_BaseColor.BaseShell_pasted__Storage_OuterShell_BaseColor]
+[2019.08.27-15.44.47:123][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_BaseColor]
+[2019.08.27-15.44.47:134][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_OuterSE03317F6459F1C766E56C98A28594CE9.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_BaseColor_Auto1.uasset'
+[2019.08.27-15.44.47:135][979]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_Normal] ([1] browsable assets)...
+[2019.08.27-15.44.47:141][979]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_Normal.BaseShell_pasted__Storage_OuterShell_Normal]
+[2019.08.27-15.44.47:141][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_Normal]
+[2019.08.27-15.44.47:219][979]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_OuterSC310AE4A40240FBE87A765B855812FE5.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_Normal_Auto1.uasset'
+[2019.08.27-15.44.47:220][979]LogFileHelpers: Auto-saving content packages took 0.469
+[2019.08.27-15.47.46:358][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.47.51:671][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_01_Masked'
+[2019.08.27-15.47.51:672][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_01_Masked' while loading NULL.
+[2019.08.27-15.47.51:672][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_01_Masked'
+[2019.08.27-15.47.51:672][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_01_Masked' while loading NULL.
+[2019.08.27-15.47.51:675][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_6'
+[2019.08.27-15.47.51:675][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_6' while loading NULL.
+[2019.08.27-15.47.51:675][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_Opacity'
+[2019.08.27-15.47.51:675][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_Opacity' while loading NULL.
+[2019.08.27-15.47.51:675][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_6'
+[2019.08.27-15.47.51:675][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_6' while loading NULL.
+[2019.08.27-15.47.51:675][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_Opacity'
+[2019.08.27-15.47.51:676][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_Opacity' while loading NULL.
+[2019.08.27-15.47.51:678][536]LogLinker: Warning: Can't find file '/Game/Materials/Pipe_Inst_1'
+[2019.08.27-15.47.51:678][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Pipe_Inst_1' while loading NULL.
+[2019.08.27-15.47.51:679][536]LogLinker: Warning: Can't find file '/Game/Materials/Pipe_Inst_1'
+[2019.08.27-15.47.51:679][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Pipe_Inst_1' while loading NULL.
+[2019.08.27-15.47.51:682][536]LogLinker: Warning: Can't find file '/Game/Materials/Pipe_Inst_1'
+[2019.08.27-15.47.51:682][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Pipe_Inst_1' while loading NULL.
+[2019.08.27-15.47.51:682][536]LogLinker: Warning: Can't find file '/Game/Materials/Pipe_Inst_1'
+[2019.08.27-15.47.51:682][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Pipe_Inst_1' while loading NULL.
+[2019.08.27-15.47.51:725][536]LogLinker: Warning: Can't find file '/Game/Materials/Pipe_Inst_1'
+[2019.08.27-15.47.51:725][536]LoadErrors: Failed to load /Game/Materials/Pipe_Inst_1.Pipe_Inst_1 Referenced by Pipe_03
+[2019.08.27-15.47.51:725][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Pipe_Inst_1' while loading NULL.
+[2019.08.27-15.47.51:726][536]LogLinker: Warning: Can't find file '/Game/Materials/Pipe_Inst_1'
+[2019.08.27-15.47.51:726][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Pipe_Inst_1' while loading NULL.
+[2019.08.27-15.47.51:726][536]LogLinker: Warning: Can't find file '/Game/Materials/Pipe_Inst_1'
+[2019.08.27-15.47.51:726][536]LoadErrors: Failed to load /Game/Materials/Pipe_Inst_1.Pipe_Inst_1 Referenced by Pipe_01
+[2019.08.27-15.47.51:726][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Pipe_Inst_1' while loading NULL.
+[2019.08.27-15.47.51:726][536]LogLinker: Warning: Can't find file '/Game/Materials/Pipe_Inst_1'
+[2019.08.27-15.47.51:726][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Pipe_Inst_1' while loading NULL.
+[2019.08.27-15.47.51:742][536]LogTexture: Display: Building textures: WallLight2_lambert1_Emissive (AutoDXT, 512X512)
+[2019.08.27-15.47.51:742][536]LogTexture: Display: Building textures: WallLight2_lambert1_Normal (BC5, 512X512)
+[2019.08.27-15.47.51:742][536]LogTexture: Display: Building textures: WallLight2_lambert1_BaseColor (AutoDXT, 512X512)
+[2019.08.27-15.47.51:742][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_6'
+[2019.08.27-15.47.51:742][536]LoadErrors: Failed to load /Game/Materials/Floor_03_Masked_6.Floor_03_Masked_6 Referenced by Floor_03
+[2019.08.27-15.47.51:742][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_6' while loading NULL.
+[2019.08.27-15.47.51:753][536]LogTexture: Display: Building textures: T_Wall_Detail_A_ML (AutoDXT, 2048X2048)
+[2019.08.27-15.47.51:753][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_Opacity'
+[2019.08.27-15.47.51:753][536]LoadErrors: Failed to load /Game/Materials/Floor_03_Masked_Opacity.Floor_03_Masked_Opacity Referenced by Floor_03
+[2019.08.27-15.47.51:753][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_Opacity' while loading NULL.
+[2019.08.27-15.47.51:754][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_6'
+[2019.08.27-15.47.51:754][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_6' while loading NULL.
+[2019.08.27-15.47.51:754][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_6'
+[2019.08.27-15.47.51:754][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_6' while loading NULL.
+[2019.08.27-15.47.51:754][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_Opacity'
+[2019.08.27-15.47.51:754][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_Opacity' while loading NULL.
+[2019.08.27-15.47.51:754][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_03_Masked_6'
+[2019.08.27-15.47.51:754][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_03_Masked_6' while loading NULL.
+[2019.08.27-15.47.51:755][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_01_Masked'
+[2019.08.27-15.47.51:755][536]LoadErrors: Failed to load /Game/Materials/Floor_01_Masked.Floor_01_Masked Referenced by Floor_02
+[2019.08.27-15.47.51:755][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_01_Masked' while loading NULL.
+[2019.08.27-15.47.51:755][536]LogLinker: Warning: Can't find file '/Game/Materials/Floor_01_Masked'
+[2019.08.27-15.47.51:755][536]LogLinker: Warning: Can't find file for asset '/Game/Materials/Floor_01_Masked' while loading NULL.
+[2019.08.27-15.47.51:755][536]LogStaticMesh: Building static mesh Pipe_03...
+[2019.08.27-15.47.51:762][536]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPartyContent/Props/Pipe_03.Pipe_03
+[2019.08.27-15.47.51:764][536]LogStaticMesh: Building static mesh Pipe_01...
+[2019.08.27-15.47.51:772][536]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPartyContent/Props/Pipe_01.Pipe_01
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: WallLight2_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: T_Metal_Brushed_M (AutoDXT, 2048X2048)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: T_Metal_Brushed_N (BC5, 2048X2048)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: T_Wall_Detail_A_Diff (AutoDXT, 2048X2048)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2019.08.27-15.47.53:664][536]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2019.08.27-15.47.53:664][536]LogStaticMesh: Building static mesh WallLight2...
+[2019.08.27-15.47.53:671][536]LogStaticMesh: Built static mesh [0.01s] /Game/Prototype/Models/WallLight2.WallLight2
+[2019.08.27-15.47.54:004][536]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2019.08.27-15.47.54:004][536]LogTexture: Display: Building textures: T_Trims_A_diff (AutoDXT, 4096X4096)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: T_Wall_Detail_A_normals (BC5, 2048X2048)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: T_Trims_A_M (AutoDXT, 4096X4096)
+[2019.08.27-15.47.58:191][536]LogTexture: Display: Building textures: T_Trims_A_normals (BC5, 4096X4096)
+[2019.08.27-15.47.58:593][536]LogMaterial: Display: Missing cached shader map for material M_Base_3C, compiling. 
+[2019.08.27-15.47.58:620][536]LogStaticMesh: Building static mesh SM_Wall_Detail_A...
+[2019.08.27-15.47.58:624][536]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPartyContent/StarterBundle/ModularSci_Comm/Meshes/SM_Wall_Detail_A.SM_Wall_Detail_A
+[2019.08.27-15.47.58:632][536]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.08.27-15.47.58:699][536]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.08.27-15.47.58:732][536]LogStaticMesh: Building static mesh Floor_03...
+[2019.08.27-15.47.58:813][536]LogStaticMesh: Built static mesh [0.08s] /Game/ThirdPartyContent/Props/Floor_03.Floor_03
+[2019.08.27-15.47.58:837][536]LogStaticMesh: Building static mesh Floor_02...
+[2019.08.27-15.47.58:837][536]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPartyContent/Props/Floor_02.Floor_02
+[2019.08.27-15.47.58:842][536]LogAIModule: Creating AISystem for world Prototype
+[2019.08.27-15.47.58:858][536]LogAssetEditorManager: Opening Asset editor for World /Game/Prototype/Maps/Prototype.Prototype
+[2019.08.27-15.47.58:883][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.08.27-15.48.02:592][536]LogSlate: Window 'Save Content' being destroyed
+[2019.08.27-15.48.02:881][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_InnerS4D40C6984AF23938839911BB66F4C7A4.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_BaseColor.uasset'
+[2019.08.27-15.48.02:996][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_InnerSA3F45E894160A9BC64E25696C8665C62.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Emissive.uasset'
+[2019.08.27-15.48.03:484][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_InnerSC3D2FB93455EEC840136A7B644571C9B.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/BaseShell_pasted__Storage_InnerShell_Normal.uasset'
+[2019.08.27-15.48.03:572][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_OuterS40EC62E74205151ABE0B8C9C084D52E0.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_BaseColor.uasset'
+[2019.08.27-15.48.03:702][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/BaseShell_pasted__Storage_OuterS7DD61868472F1F89B84B9F8915C6573B.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/BaseShell_pasted__Storage_OuterShell_Normal.uasset'
+[2019.08.27-15.48.03:719][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_InnerShell69022D9348423F92B699039F838FCF8C.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_InnerShell.uasset'
+[2019.08.27-15.48.03:813][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Interactable_Bo75EF4ED042D599A2CFA68998A5AE4262.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_BaseColor.uasset'
+[2019.08.27-15.48.03:849][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Interactable_Bo20B45D114CB4DAC39CA0488F53CDA5B0.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Emissive.uasset'
+[2019.08.27-15.48.03:961][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Interactable_BoB3A075534077DBB4FC16EDA8FC563ADB.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Interactable_Box_Normal.uasset'
+[2019.08.27-15.48.04:251][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_InnerSh0B8726FA47632374358BC3A8736BD8D1.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_BaseColor.uasset'
+[2019.08.27-15.48.04:369][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_InnerShA0C58F8C4D8E9F99E7196C9CF51067D2.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Emissive.uasset'
+[2019.08.27-15.48.04:889][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_InnerSh5F427990435D5D4FB068AD90AF9D4A3A.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_InnerShell_Normal.uasset'
+[2019.08.27-15.48.04:972][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_OuterShE63B97D04A0F325CDE3482828DA1CB90.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_BaseColor.uasset'
+[2019.08.27-15.48.05:095][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Storage_OuterSh18EF923E4064927A7D4683AB981BF926.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Storage_OuterShell_Normal.uasset'
+[2019.08.27-15.48.05:174][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_Inner71FDA6434108A0867C15AE9760C6E04B.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_BaseColor.uasset'
+[2019.08.27-15.48.05:300][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_Inner299BEB3A4C0D0200B29A94844EFADF5C.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_InnerColumn_Normal.uasset'
+[2019.08.27-15.48.05:622][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_ServeAB2ACC9945156E1F88D97EA17E0BEBB6.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_BaseColor.uasset'
+[2019.08.27-15.48.05:736][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_ServeAB06974B465B1431BA0AD7B184BE1BB2.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Emissive.uasset'
+[2019.08.27-15.48.06:205][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_WallPiece_Serve162679DF4A09396F499A23B87F4D3C4D.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_WallPiece_ServerBox_Normal.uasset'
+[2019.08.27-15.48.06:284][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Window_inner_piE3217F7449B33C9535640D96353F339E.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_BaseColor.uasset'
+[2019.08.27-15.48.06:414][536]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Storage_Shell_02_Window_inner_pi52D2BA304C04D534046ACDBAAA0D3C6D.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Geometry/Shell_Sections/Materials_Storage/Storage_Shell_02_Window_inner_piece_Normal.uasset'
+[2019.08.27-15.48.06:416][536]Cmd: MAP LOAD FILE="../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.27-15.48.06:416][536]LightingResults: New page: Lighting Build
+[2019.08.27-15.48.06:417][536]LoadErrors: New page: Loading map: Prototype.umap
+[2019.08.27-15.48.06:418][536]MapCheck: New page: Map Check
+[2019.08.27-15.48.06:418][536]LightingResults: New page: Lighting Build
+[2019.08.27-15.48.06:444][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.08.27-15.48.06:494][536]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.27-15.48.06:520][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.08.27-15.48.06:543][536]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.27-15.48.06:543][536]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2019.08.27-15.48.06:543][536]LogFileHelpers: Loading map 'Prototype' took 0.128
+[2019.08.27-15.48.32:031][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-15.48.42:972][309]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit6)
+[2019.08.27-15.48.44:852][531]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit6)
+[2019.08.27-15.48.47:656][860]LogEditorViewport: Clicking on Actor (LMB): paddedShell_C (paddedShell)
+[2019.08.27-15.48.49:078][ 27]Cmd: DELETE
+[2019.08.27-15.48.49:078][ 27]Cmd: ACTOR DELETE
+[2019.08.27-15.48.49:082][ 27]LogEditorActor: Deleted Actor: paddedShell_C
+[2019.08.27-15.48.49:103][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.08.27-15.48.49:103][ 27]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.08.27-15.48.52:451][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.48.57:441][ 19]Cmd: DELETE
+[2019.08.27-15.48.57:441][ 19]Cmd: ACTOR DELETE
+[2019.08.27-15.48.57:443][ 19]LogEditorActor: Deleted Actor: BaseShell_C
+[2019.08.27-15.48.57:468][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.08.27-15.48.57:468][ 19]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.08.27-15.48.58:040][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.49.28:318][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.49.43:346][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.49.47:443][919]Cmd: TRANSACTION UNDO
+[2019.08.27-15.49.47:443][919]LogEditorTransaction: Undo Rotate Actors
+[2019.08.27-15.49.48:348][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.49.49:755][194]Cmd: MODE ROTGRID=1
+[2019.08.27-15.50.04:726][955]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-15.50.05:591][ 57]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-15.50.17:353][467]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit4)
+[2019.08.27-15.50.19:260][675]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit6)
+[2019.08.27-15.50.22:591][ 58]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit4)
+[2019.08.27-15.50.22:866][ 87]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2019.08.27-15.50.23:415][151]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2019.08.27-15.50.24:042][225]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2019.08.27-15.50.24:552][285]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2019.08.27-15.50.24:954][332]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2019.08.27-15.50.25:848][438]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2019.08.27-15.50.27:920][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pipe_5)
+[2019.08.27-15.50.32:571][225]Cmd: DELETE
+[2019.08.27-15.50.32:571][225]Cmd: ACTOR DELETE
+[2019.08.27-15.50.32:574][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.27-15.50.32:615][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.08.27-15.50.32:615][225]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.08.27-15.50.35:194][525]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2019.08.27-15.50.35:952][611]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2019.08.27-15.50.38:073][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pipe_01)
+[2019.08.27-15.50.38:924][951]Cmd: DELETE
+[2019.08.27-15.50.38:924][951]Cmd: ACTOR DELETE
+[2019.08.27-15.50.38:926][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.27-15.50.38:946][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.08.27-15.50.38:947][951]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.08.27-15.50.43:281][467]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeDirectional_Lit)
+[2019.08.27-15.50.45:639][735]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit5)
+[2019.08.27-15.50.47:716][969]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit5)
+[2019.08.27-15.50.49:513][171]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit5)
+[2019.08.27-15.50.50:305][264]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit5)
+[2019.08.27-15.50.51:741][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.50.53:093][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pipe_2)
+[2019.08.27-15.51.28:720][768]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-15.51.31:056][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.51.33:514][335]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StorageShell.StorageShell
+[2019.08.27-15.51.59:089][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-15.52.03:433][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-15.52.29:290][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-15.52.41:169][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.52.56:258][589]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.52.58:175][794]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.52.58:527][834]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.52.58:937][881]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.52.59:381][932]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.52.59:842][985]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.53.00:188][ 25]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.53.01:174][141]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.53.01:521][181]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.53.20:248][252]LogEditorTransaction: Undo Modify Component(s)
+[2019.08.27-15.53.22:529][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-15.53.22:572][521]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-15.53.23:761][662]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-15.53.30:690][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-15.53.43:692][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-15.53.50:673][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.53.50:706][731]BlueprintLog: New page: Compile StorageShell
+[2019.08.27-15.53.50:927][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.08.27-15.53.51:294][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StorageShell" FILE="../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/StorageShell.uasset" SILENT=true
+[2019.08.27-15.53.51:323][765]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/StorageShellB5E377B84106255D8AA4AC95D8880449.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/StorageShell.uasset'
+[2019.08.27-15.53.54:133][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.53.54:216][ 93]LogSlate: Window 'StorageShell' being destroyed
+[2019.08.27-15.53.54:221][ 93]LogSlate: Window 'StorageShell' being destroyed
+[2019.08.27-15.53.55:340][220]LogEditorViewport: Clicking Background
+[2019.08.27-15.54.04:218][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.54.12:181][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-15.54.19:719][113]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-15.54.22:504][439]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell)
+[2019.08.27-15.54.32:536][624]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell)
+[2019.08.27-15.54.57:312][579]LogEditorViewport: Clicking Background
+[2019.08.27-15.55.05:116][512]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell)
+[2019.08.27-15.57.51:324][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-15.57.51:377][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.08.27-15.57.51:561][419]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_Auto2B7456B4D49A64419F885269FD345DB15.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Prototype/Maps/Prototype_Auto2.umap'
+[2019.08.27-15.57.51:563][419]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prototype/Maps/Prototype' took 0.220
+[2019.08.27-15.57.51:563][419]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.220
+[2019.08.27-16.14.32:095][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.15.38:044][311]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit3)
+[2019.08.27-16.15.40:250][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.15.49:321][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.15.51:543][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.16.05:411][556]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.27-16.17.19:521][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.17.19:583][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.08.27-16.17.19:773][400]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_Auto33965F4034277787A6D482EB5D55438C2.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Prototype/Maps/Prototype_Auto3.umap'
+[2019.08.27-16.17.19:775][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prototype/Maps/Prototype' took 0.234
+[2019.08.27-16.17.19:775][400]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2019.08.27-16.18.16:723][218]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell2)
+[2019.08.27-16.18.58:130][108]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell3)
+[2019.08.27-16.19.00:565][396]LogEditorViewport: Clicking Background
+[2019.08.27-16.19.04:811][905]LogEditorViewport: Clicking on Actor (LMB): paddedShell_C (paddedShell)
+[2019.08.27-16.23.16:124][ 52]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell4)
+[2019.08.27-16.23.22:593][817]LogEditorViewport: Clicking Background
+[2019.08.27-16.23.23:695][948]LogEditorViewport: Clicking on Actor (LMB): paddedShell_C (paddedShell4)
+[2019.08.27-16.24.03:809][742]LogEditorViewport: Clicking Background
+[2019.08.27-16.24.09:038][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.24.09:104][377]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.27-16.24.09:116][377]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Prototype/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.08.27-16.24.09:116][377]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.27-16.24.09:117][377]LogPlayLevel: [PlayLevel] Compiling paddedShell before play...
+[2019.08.27-16.24.09:414][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.08.27-16.24.09:414][377]LogPlayLevel: PlayLevel: Blueprint regeneration took 298 ms (1 blueprints)
+[2019.08.27-16.24.09:415][377]PIE: New page: PIE session: Prototype (Aug 27, 2019, 4:24:09 AM)
+[2019.08.27-16.24.09:427][377]LogPlayLevel: Creating play world package: /Game/Prototype/Maps/UEDPIE_0_Prototype
+[2019.08.27-16.24.09:434][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006744s)
+[2019.08.27-16.24.09:434][377]LogAIModule: Creating AISystem for world Prototype
+[2019.08.27-16.24.09:434][377]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2019.08.27-16.24.09:434][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Maps/Prototype.Prototype to /Game/Prototype/Maps/UEDPIE_0_Prototype.Prototype (0.007413s)
+[2019.08.27-16.24.09:456][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.08.27-16.24.09:463][377]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.27-16.24.09:471][377]LogInit: FAudioDevice initialized.
+[2019.08.27-16.24.09:477][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-16.24.09:518][377]LogLoad: Game class is 'ProjectFoilGameMode'
+[2019.08.27-16.24.09:522][377]LogWorld: Bringing World /Game/Prototype/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 0) at 2019.08.27-10.24.09
+[2019.08.27-16.24.09:523][377]LogWorld: Bringing up level for play took: 0.003813
+[2019.08.27-16.24.09:538][377]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.27-16.24.09:539][377]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.27-16.24.09:540][377]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.08.27-16.24.09:543][377]PIE: Play in editor start time for /Game/Prototype/Maps/UEDPIE_0_Prototype -0.459
+[2019.08.27-16.24.09:543][377]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Prototype/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.08.27-16.24.09:759][378]LogRenderer: Reallocating scene render targets to support 1912x1048 Format 10 NumSamples 1 (Frame:1).
+[2019.08.27-16.24.12:714][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Prototype/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.08.27-16.24.12:715][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.27-16.24.12:726][723]LogSlate: Window 'ProjectFoil Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.27-16.24.12:761][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.27-16.24.12:761][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel.Prototype' with GeneratedClass '/Game/Prototype/Maps/Prototype.Prototype_C' with ClassGeneratedBy '/Game/Prototype/Maps/Prototype.Prototype:PersistentLevel.Prototype'
+[2019.08.27-16.24.12:822][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.08.27-16.24.12:835][724]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.08.27-16.25.04:164][882]LogEditorViewport: Clicking on Actor (LMB): paddedShell_C (paddedShell3)
+[2019.08.27-16.25.20:523][826]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2019.08.27-16.25.25:850][439]LogEditorViewport: Clicking on Actor (LMB): paddedShell_C (paddedShell5)
+[2019.08.27-16.25.40:449][168]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell4)
+[2019.08.27-16.25.42:122][362]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell4)
+[2019.08.27-16.25.45:582][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.26.17:338][556]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell3)
+[2019.08.27-16.26.34:884][647]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell3)
+[2019.08.27-16.26.39:250][159]LogEditorViewport: Clicking on Actor (LMB): paddedShell_C (paddedShell)
+[2019.08.27-16.26.55:623][101]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell2)
+[2019.08.27-16.27.13:806][254]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell)
+[2019.08.27-16.27.33:255][562]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-16.27.40:962][468]Cmd: TRANSACTION UNDO
+[2019.08.27-16.27.40:962][468]LogEditorTransaction: Undo Move Actors
+[2019.08.27-16.28.01:873][966]LogEditorViewport: Clicking on Actor (LMB): paddedShell_C (paddedShell2)
+[2019.08.27-16.28.25:568][779]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-16.28.50:923][766]LogEditorViewport: Clicking Background
+[2019.08.27-16.28.59:471][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.28.59:556][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.08.27-16.28.59:757][790]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/PrototypeB8C537854F8B6222FF5DC7AC23950650.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap'
+[2019.08.27-16.29.01:532][790]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltDataDA65D409469A2F1F58504ABF33D6FC14.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData.uasset'
+[2019.08.27-16.29.09:862][786]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell)
+[2019.08.27-16.29.48:216][380]Cmd: DELETE
+[2019.08.27-16.29.48:216][380]Cmd: ACTOR DELETE
+[2019.08.27-16.29.48:218][380]LogEditorActor: Deleted Actor: BaseShell_C
+[2019.08.27-16.29.48:241][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.08.27-16.29.48:241][380]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.08.27-16.29.55:370][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.30.01:477][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.30.01:687][987]LogActorFactory: Actor Factory created BaseShell
+[2019.08.27-16.30.02:871][129]LogActorFactory: Actor Factory created BaseShell
+[2019.08.27-16.30.04:182][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.30.35:574][ 28]Cmd: DELETE
+[2019.08.27-16.30.35:574][ 28]Cmd: ACTOR DELETE
+[2019.08.27-16.30.35:576][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.27-16.30.35:595][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.08.27-16.30.35:595][ 28]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.08.27-16.30.39:660][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.30.45:502][215]LogActorFactory: Actor Factory created BaseShell
+[2019.08.27-16.30.45:502][215]LogActorFactory: Actor Factory created paddedShell_01_Grating
+[2019.08.27-16.30.45:503][215]LogActorFactory: Actor Factory created paddedShell_01_Handles
+[2019.08.27-16.30.45:503][215]LogActorFactory: Actor Factory created paddedShell_01_Walkway_sides
+[2019.08.27-16.30.45:503][215]LogActorFactory: Actor Factory created paddedShell_01_wiremesh
+[2019.08.27-16.30.46:655][353]LogActorFactory: Actor Factory created BaseShell
+[2019.08.27-16.30.46:666][353]LogActorFactory: Actor Factory created paddedShell_01_Grating
+[2019.08.27-16.30.46:676][353]LogActorFactory: Actor Factory created paddedShell_01_Handles
+[2019.08.27-16.30.46:687][353]LogActorFactory: Actor Factory created paddedShell_01_Walkway_sides
+[2019.08.27-16.30.46:697][353]LogActorFactory: Actor Factory created paddedShell_01_wiremesh
+[2019.08.27-16.30.48:385][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.32.36:644][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paddedShell_01_Grating)
+[2019.08.27-16.32.43:545][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.32.43:807][972]LogActorFactory: Actor Factory created paddedShell_01_Base_Seperator
+[2019.08.27-16.32.44:893][102]LogActorFactory: Actor Factory created paddedShell_01_Base_Seperator
+[2019.08.27-16.32.45:936][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.33.24:442][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paddedShell_01_Base_Seperator)
+[2019.08.27-16.34.21:195][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_03)
+[2019.08.27-16.34.22:837][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_03)
+[2019.08.27-16.35.05:347][744]Cmd: TRANSACTION UNDO
+[2019.08.27-16.35.05:347][744]LogEditorTransaction: Undo Move Actors
+[2019.08.27-16.35.05:719][787]Cmd: TRANSACTION UNDO
+[2019.08.27-16.35.05:719][787]LogEditorTransaction: Undo Scale Actors
+[2019.08.27-16.35.17:736][223]Cmd: TRANSACTION UNDO
+[2019.08.27-16.35.17:736][223]LogEditorTransaction: Undo Rotate Actors
+[2019.08.27-16.35.19:830][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.35.19:889][480]Cmd: MODE ROTGRID=0
+[2019.08.27-16.35.41:835][106]Cmd: DELETE
+[2019.08.27-16.35.41:835][106]Cmd: ACTOR DELETE
+[2019.08.27-16.35.41:837][106]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.27-16.35.41:860][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.08.27-16.35.41:860][106]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.08.27-16.36.14:291][995]Cmd: TRANSACTION UNDO
+[2019.08.27-16.36.14:291][995]LogEditorTransaction: Undo Delete Actors
+[2019.08.27-16.36.30:550][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.37.08:896][239]LogTexture: Display: Building textures: T_DefaultLight_S (AutoDXT, 64X64)
+[2019.08.27-16.37.08:896][239]LogTexture: Display: Building textures: T_Crate_A_M (AutoDXT, 2048X2048)
+[2019.08.27-16.37.08:896][239]LogTexture: Display: Building textures: T_Crate_A_Diff (AutoDXT, 2048X2048)
+[2019.08.27-16.37.08:896][239]LogTexture: Display: Building textures: T_Metal_Scratches_M (AutoDXT, 2048X2048)
+[2019.08.27-16.37.08:896][239]LogTexture: Display: Building textures: T_Ceiling_A_Buffer_M (AutoDXT, 4096X4096)
+[2019.08.27-16.37.08:896][239]LogTexture: Display: Building textures: T_Ceiling_A_Buffer_N_normals (BC5, 4096X4096)
+[2019.08.27-16.37.08:896][239]LogTexture: Display: Building textures: T_Crate_A_N_normals (BC5, 2048X2048)
+[2019.08.27-16.37.08:896][239]LogTexture: Display: Building textures: T_Ceiling_A_Buffer_Diff (AutoDXT, 4096X4096)
+[2019.08.27-16.37.08:896][239]LogMaterial: Display: Missing cached shader map for material M_Base_2C, compiling. 
+[2019.08.27-16.37.08:909][239]LogStaticMesh: Building static mesh SM_Crate_A...
+[2019.08.27-16.37.08:928][239]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPartyContent/StarterBundle/ModularScifiHallways/Meshes/SM_Crate_A.SM_Crate_A
+[2019.08.27-16.37.08:955][239]LogActorFactory: Actor Factory created SM_Crate_A
+[2019.08.27-16.37.13:501][779]LogActorFactory: Actor Factory created SM_Crate_A
+[2019.08.27-16.37.26:500][326]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.27-16.37.35:381][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.37.35:490][381]LogTexture: Display: Building textures: T_EnergyCore_EM (AutoDXT, 512X512)
+[2019.08.27-16.37.35:755][381]LogTexture: Display: Building textures: T_EnergyCore_A_M (AutoDXT, 2048X2048)
+[2019.08.27-16.37.35:755][381]LogTexture: Display: Building textures: T_Pipes_A_M (AutoDXT, 2048X2048)
+[2019.08.27-16.37.35:755][381]LogTexture: Display: Building textures: T_Pipes_A_N_normals (BC5, 2048X2048)
+[2019.08.27-16.37.35:755][381]LogTexture: Display: Building textures: T_EnergyCore_A_N_normals (BC5, 2048X2048)
+[2019.08.27-16.37.35:755][381]LogTexture: Display: Building textures: T_EnergyCore_A_Diff (AutoDXT, 2048X2048)
+[2019.08.27-16.37.35:755][381]LogTexture: Display: Building textures: T_Pipes_A_Diff (AutoDXT, 2048X2048)
+[2019.08.27-16.37.35:755][381]LogMaterial: Display: Missing cached shader map for material M_EnergyEmissive, compiling. 
+[2019.08.27-16.37.36:638][381]LogStaticMesh: Building static mesh SM_EnergyCore_A...
+[2019.08.27-16.37.36:725][381]LogStaticMesh: Built static mesh [0.09s] /Game/ThirdPartyContent/StarterBundle/ModularScifiHallways/Meshes/SM_EnergyCore_A.SM_EnergyCore_A
+[2019.08.27-16.37.36:748][381]LogActorFactory: Actor Factory created SM_EnergyCore_A
+[2019.08.27-16.37.38:205][555]LogActorFactory: Actor Factory created SM_EnergyCore_A
+[2019.08.27-16.37.46:526][540]Cmd: TRANSACTION UNDO
+[2019.08.27-16.37.46:526][540]LogEditorTransaction: Undo Rotate Actors
+[2019.08.27-16.37.47:206][610]Cmd: TRANSACTION UNDO
+[2019.08.27-16.37.47:206][610]LogEditorTransaction: Undo Rotate Actors
+[2019.08.27-16.37.48:185][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.37.50:464][998]Cmd: MODE ROTGRID=1
+[2019.08.27-16.37.58:369][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnergyCore_A)
+[2019.08.27-16.38.16:239][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Detail_A)
+[2019.08.27-16.38.23:909][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pipe_2)
+[2019.08.27-16.38.54:944][630]Cmd: TRANSACTION UNDO
+[2019.08.27-16.38.54:944][630]LogEditorTransaction: Undo Rotate Actors
+[2019.08.27-16.38.55:717][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.38.55:776][728]Cmd: MODE ROTGRID=0
+[2019.08.27-16.39.25:714][259]LogEditorViewport: Clicking on Actor (LMB): WallLight_C (WallLight3)
+[2019.08.27-16.39.45:357][583]LogEditorViewport: Clicking on Actor (LMB): paddedShell_C (paddedShell2)
+[2019.08.27-16.39.46:754][748]LogEditorViewport: Clicking on Actor (LMB): paddedShell_C (paddedShell2)
+[2019.08.27-16.39.49:186][ 32]LogEditorViewport: Clicking on Actor (LMB): WallLight_C (WallLight)
+[2019.08.27-16.40.00:320][331]LogEditorViewport: Clicking on Actor (LMB): WallLight_C (WallLight)
+[2019.08.27-16.40.13:023][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f17)
+[2019.08.27-16.40.18:469][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.40.32:870][165]Cmd: TRANSACTION UNDO
+[2019.08.27-16.40.32:870][165]LogEditorTransaction: Undo Move Actors
+[2019.08.27-16.40.58:506][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f28)
+[2019.08.27-16.40.59:464][253]Cmd: DELETE
+[2019.08.27-16.40.59:464][253]Cmd: ACTOR DELETE
+[2019.08.27-16.40.59:467][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.27-16.40.59:496][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.08.27-16.40.59:496][253]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.08.27-16.41.03:020][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f13)
+[2019.08.27-16.41.07:889][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f27)
+[2019.08.27-16.41.13:117][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f24)
+[2019.08.27-16.41.15:738][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f10)
+[2019.08.27-16.41.20:324][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f17)
+[2019.08.27-16.41.21:926][893]Cmd: DELETE
+[2019.08.27-16.41.21:926][893]Cmd: ACTOR DELETE
+[2019.08.27-16.41.21:929][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.27-16.41.21:929][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.27-16.41.21:950][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.08.27-16.41.21:950][893]LogEditorActor: Deleted 2 Actors (0.024 secs)
+[2019.08.27-16.41.23:230][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f16)
+[2019.08.27-16.41.23:899][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f2)
+[2019.08.27-16.41.31:983][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f)
+[2019.08.27-16.41.37:846][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f16)
+[2019.08.27-16.42.07:627][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f27)
+[2019.08.27-16.42.14:520][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f16)
+[2019.08.27-16.42.25:106][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.42.36:482][625]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit6)
+[2019.08.27-16.42.38:864][906]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit6)
+[2019.08.27-16.42.42:625][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.42.47:964][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.42.48:138][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.42.48:456][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.43.22:717][ 98]LogEditorViewport: Clicking on Actor (LMB): WallLight_C (WallLight3)
+[2019.08.27-16.43.29:680][912]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.27-16.43.36:179][633]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.27-16.44.17:598][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.44.17:630][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.08.27-16.44.17:833][587]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_Auto446F75F5A46E99E81D213B8B3F04DAA40.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Autosaves/Game/Prototype/Maps/Prototype_Auto4.umap'
+[2019.08.27-16.44.17:836][587]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prototype/Maps/Prototype' took 0.230
+[2019.08.27-16.44.17:836][587]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.230
+[2019.08.27-16.46.16:677][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.46.16:741][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.08.27-16.46.16:936][834]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype91F58B9247FDE48FB3A2EDBED99E71AA.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap'
+[2019.08.27-16.46.17:914][834]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltData1D1DAFBA4AB61839695D87B83C7AED5B.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData.uasset'
+[2019.08.27-16.46.50:165][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.46.54:042][162]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-16.46.56:679][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.46.56:726][481]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StorageShell.StorageShell
+[2019.08.27-16.47.18:391][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.47.18:432][960]BlueprintLog: New page: Compile StorageShell
+[2019.08.27-16.47.18:553][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.08.27-16.47.18:981][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StorageShell" FILE="../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/StorageShell.uasset" SILENT=true
+[2019.08.27-16.47.19:010][  1]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/StorageShellDA274CE24DAE462C89E579A92D615109.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/StorageShell.uasset'
+[2019.08.27-16.47.21:156][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.47.34:256][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.08.27-16.47.39:511][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StorageShell_noInteract" FILE="../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/StorageShell_noInteract.uasset" SILENT=true
+[2019.08.27-16.47.39:537][238]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/StorageShell_noInteract2845316F423CD87865A3F08FB87241AF.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/StorageShell_noInteract.uasset'
+[2019.08.27-16.47.41:054][401]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StorageShell_noInteract.StorageShell_noInteract
+[2019.08.27-16.48.15:810][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.48.16:019][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.49.16:006][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.49.16:064][859]BlueprintLog: New page: Compile StorageShell_noInteract
+[2019.08.27-16.49.16:371][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.08.27-16.49.16:835][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StorageShell_noInteract" FILE="../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/StorageShell_noInteract.uasset" SILENT=true
+[2019.08.27-16.49.16:862][905]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/StorageShell_noInteractFD94C6E840DE0F774CD0C7BDA50862D6.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/StorageShell_noInteract.uasset'
+[2019.08.27-16.49.18:757][118]LogSlate: Window 'StorageShell_noInteract' being destroyed
+[2019.08.27-16.49.18:760][118]LogSlate: Window 'StorageShell_noInteract' being destroyed
+[2019.08.27-16.49.18:819][118]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.27-16.49.22:010][480]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit6)
+[2019.08.27-16.49.23:134][611]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeGeneric_Lit6)
+[2019.08.27-16.49.25:119][843]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-16.49.34:184][923]Cmd: DELETE
+[2019.08.27-16.49.34:184][923]Cmd: ACTOR DELETE
+[2019.08.27-16.49.34:185][923]LogEditorActor: Deleted Actor: StorageShell_C
+[2019.08.27-16.49.34:211][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.08.27-16.49.34:211][923]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.08.27-16.49.34:769][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.50.09:761][174]Cmd: DELETE
+[2019.08.27-16.50.09:761][174]Cmd: ACTOR DELETE
+[2019.08.27-16.50.09:764][174]LogEditorActor: Deleted Actor: StorageShell_noInteract_C
+[2019.08.27-16.50.09:789][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.08.27-16.50.09:790][174]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.08.27-16.50.21:733][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paddedShell_01_Base_Seperator2)
+[2019.08.27-16.50.30:306][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (paddedShell_01_Handles)
+[2019.08.27-16.50.31:995][824]Cmd: DELETE
+[2019.08.27-16.50.31:995][824]Cmd: ACTOR DELETE
+[2019.08.27-16.50.31:998][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.27-16.50.32:020][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.08.27-16.50.32:020][824]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.08.27-16.50.36:639][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.50.36:665][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.08.27-16.50.36:862][378]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/PrototypeF52EF1494C15F8E53A7A3E9C91F16576.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap'
+[2019.08.27-16.50.37:804][378]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltData558EEFF14266EBF28B8544BEB84144A0.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData.uasset'
+[2019.08.27-16.50.43:570][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseShell)
+[2019.08.27-16.51.41:747][ 30]LogEditorViewport: Clicking on Actor (LMB): BaseShell_C (BaseShell3)
+[2019.08.27-16.51.43:318][216]Cmd: DELETE
+[2019.08.27-16.51.43:318][216]Cmd: ACTOR DELETE
+[2019.08.27-16.51.43:321][216]LogEditorActor: Deleted Actor: BaseShell_C
+[2019.08.27-16.51.43:345][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.08.27-16.51.43:345][216]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.08.27-16.51.45:410][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.51.51:203][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.51.57:383][894]Cmd: TRANSACTION UNDO
+[2019.08.27-16.51.57:383][894]LogEditorTransaction: Undo Rotate Actors
+[2019.08.27-16.51.58:276][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.52.00:094][216]Cmd: MODE ROTGRID=1
+[2019.08.27-16.52.25:797][272]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-16.52.53:575][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BaseShell)
+[2019.08.27-16.52.56:713][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.52.59:680][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.53.44:610][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.54.43:059][671]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-16.54.45:034][898]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-16.54.46:658][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.54.52:603][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.55.00:959][764]LogEditorViewport: Clicking on Actor (LMB): WallLight_C (WallLight4)
+[2019.08.27-16.55.09:180][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.55.41:333][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.55.41:391][521]Cmd: MODE ROTGRID=0
+[2019.08.27-16.56.26:405][831]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.27-16.57.00:519][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-16.57.00:589][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.08.27-16.57.00:797][871]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/PrototypeBCEB3F944990E476000E5D99460C9E61.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap'
+[2019.08.27-16.57.01:791][871]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltDataE9AEACC44CC7D0142D8FCF9CFF839E17.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData.uasset'
+[2019.08.27-16.57.19:051][938]LogEditorViewport: Clicking on Actor (LMB): WallLight_C (WallLight4)
+[2019.08.27-16.58.00:647][827]LogEditorViewport: Clicking on Actor (LMB): WallLight_C (WallLight6)
+[2019.08.27-16.58.07:074][572]LogEditorViewport: Clicking on Actor (LMB): WallLight_C (WallLight7)
+[2019.08.27-16.58.14:656][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnergyCore_A)
+[2019.08.27-16.58.20:465][129]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.27-16.59.12:262][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-16.59.35:534][ 14]LogActorFactory: Actor Factory created pipe_f
+[2019.08.27-16.59.36:327][109]LogActorFactory: Actor Factory created pipe_f
+[2019.08.27-17.00.00:683][994]LogEditorViewport: Clicking on Actor (LMB): StorageShell_C (StorageShell)
+[2019.08.27-17.00.00:973][ 26]Cmd: TRANSACTION UNDO
+[2019.08.27-17.00.00:973][ 26]LogEditorTransaction: Undo Scale Actors
+[2019.08.27-17.00.18:869][128]Cmd: TRANSACTION UNDO
+[2019.08.27-17.00.18:869][128]LogEditorTransaction: Undo Scale Actors
+[2019.08.27-17.00.21:192][405]Cmd: TRANSACTION UNDO
+[2019.08.27-17.00.21:192][405]LogEditorTransaction: Undo Scale Actors
+[2019.08.27-17.00.31:223][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f3)
+[2019.08.27-17.00.33:135][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f3)
+[2019.08.27-17.00.36:411][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pipe_f17)
+[2019.08.27-17.00.47:916][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-17.01.32:754][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EnergyCore_A4)
+[2019.08.27-17.01.41:948][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-17.01.53:364][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-17.01.53:585][433]LogActorFactory: Actor Factory created StorageShell_F_Unreal_window_Base_shell5
+[2019.08.27-17.01.55:596][674]LogActorFactory: Actor Factory created StorageShell_F_Unreal_window_Base_shell5
+[2019.08.27-17.01.57:198][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-17.03.22:255][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-17.03.22:373][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.08.27-17.03.22:578][877]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype36BAE9D9474BB64E599DD8B5264C8F47.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap'
+[2019.08.27-17.03.23:557][877]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltData3DAAD49C440E0981817EFEB7057B4F17.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData.uasset'
+[2019.08.27-17.04.37:890][746]Cmd: DELETE
+[2019.08.27-17.04.37:890][746]Cmd: ACTOR DELETE
+[2019.08.27-17.04.37:893][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.27-17.04.37:916][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.08.27-17.04.37:916][746]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.08.27-17.04.41:120][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-17.04.41:364][156]LogActorFactory: Actor Factory created StorageShell_F_Unreal_window_polySurface84
+[2019.08.27-17.04.42:923][343]LogActorFactory: Actor Factory created StorageShell_F_Unreal_window_polySurface84
+[2019.08.27-17.06.22:835][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.27-17.06.22:862][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.08.27-17.06.23:066][134]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype777ABA5A459DFDFBBFA3FEA0E9869056.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap'
+[2019.08.27-17.06.24:004][134]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltData8014FAED4E76DF9164E480A430B59A90.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData.uasset'
+[2019.08.27-17.06.39:247][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.08.27-17.06.39:451][955]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype32DB9E1C4A69DCD1F7C2BC95D6D26589.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap'
+[2019.08.27-17.06.40:383][955]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltDataA8A6A7F645CE0CF54302A0948DA98C3E.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData.uasset'

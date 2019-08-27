@@ -1,10 +1,10 @@
-D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
-D:\EpicGames\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\EpicGames\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil/ProjectFoilHUD.h
-D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-d:\foil\preojectfoil\projectfoil\intermediate\build\win64\ue4editor\inc\projectfoil\ProjectFoilHUD.generated.h
+C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil/ProjectFoilHUD.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+c:\branden craghead\projects 2\project foil\preojectfoil\projectfoil\intermediate\build\win64\ue4editor\inc\projectfoil\ProjectFoilHUD.generated.h

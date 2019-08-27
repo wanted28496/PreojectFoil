@@ -194,11 +194,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/I D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine
-/Yc"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h.obj"
+/I "C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine"
+/Yc"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4

@@ -1,5 +1,5 @@
-D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
-D:\EpicGames\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\EpicGames\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil/ProjectFoilProjectile.h
-d:\foil\preojectfoil\projectfoil\intermediate\build\win64\ue4editor\inc\projectfoil\ProjectFoilProjectile.generated.h
+C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil/ProjectFoilProjectile.h
+c:\branden craghead\projects 2\project foil\preojectfoil\projectfoil\intermediate\build\win64\ue4editor\inc\projectfoil\ProjectFoilProjectile.generated.h

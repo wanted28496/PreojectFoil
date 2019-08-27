@@ -2806,3 +2806,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.27-17.09.38:069][247]LogFileHelpers: Saving map 'Prototype_2' took 0.280
 [2019.08.27-17.09.38:982][247]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_2_BuiltDataDC7855774BCAA84FEEF42081E27C6E79.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_2_BuiltData.uasset'
 [2019.08.27-17.09.39:892][247]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltData_29ED63AD849C076759DAC988AE272015F.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData_2.uasset'
+[2019.08.27-17.10.05:583][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-17.10.07:198][264]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.08.27-17.10.37:676][872]Cmd: DELETE
+[2019.08.27-17.10.37:676][872]Cmd: ACTOR DELETE
+[2019.08.27-17.10.37:679][872]LogEditorActor: Deleted Actor: PointLight
+[2019.08.27-17.10.37:704][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.08.27-17.10.37:704][872]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.08.27-17.10.38:925][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.27-17.10.39:006][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.08.27-17.10.39:224][ 25]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/PrototypeB332EE974EC24498281DB4A05E385458.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype.umap'
+[2019.08.27-17.10.40:154][ 25]LogSavePackage: Moving '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Saved/Prototype_BuiltData38539B93419D5117805E2CBF5ADFCA9B.tmp' to '../../../../../../Users/u1218485/Documents/GitHub/PreojectFoil/ProjectFoil/Content/Prototype/Maps/Prototype_BuiltData.uasset'

@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I "D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil"
-/I "D:\UE projects\Project foil\ProjectFoil\Source"
-/I "D:\UE projects\Project foil\ProjectFoil\Source\ProjectFoil"
+/I D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil
+/I D:\Foil\PreojectFoil\ProjectFoil\Source
+/I D:\Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -432,18 +432,18 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I Runtime\AugmentedReality
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\UE projects\Project foil\ProjectFoil\Source\ProjectFoil\ProjectFoilHUD.cpp"
-/FI"D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h"
-/Fo"D:\UE projects\Project foil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\ProjectFoilHUD.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil\ProjectFoilHUD.cpp"
+/FI"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h"
+/Fo"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\ProjectFoilHUD.cpp.obj"
 /TP
 /GR-
 /W4

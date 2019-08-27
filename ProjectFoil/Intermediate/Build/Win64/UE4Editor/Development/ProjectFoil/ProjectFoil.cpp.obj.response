@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil
-/I D:\Foil\PreojectFoil\ProjectFoil\Source
-/I D:\Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil
+/I "C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Inc\ProjectFoil"
+/I "C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Source"
+/I "C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -438,12 +438,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil\ProjectFoil.cpp"
-/FI"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h"
-/Fo"D:\Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\ProjectFoil.cpp.obj"
+/FI"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\ProjectFoilEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Source\ProjectFoil\ProjectFoil.cpp"
+/FI"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\Definitions.ProjectFoil.h"
+/Fo"C:\Branden Craghead\Projects 2\Project Foil\PreojectFoil\ProjectFoil\Intermediate\Build\Win64\UE4Editor\Development\ProjectFoil\ProjectFoil.cpp.obj"
 /TP
 /GR-
 /W4

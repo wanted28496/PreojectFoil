@@ -117,6 +117,10 @@ protected:
 	void BeginTouch(const ETouchIndex::Type FingerIndex, const FVector Location);
 	void EndTouch(const ETouchIndex::Type FingerIndex, const FVector Location);
 	void TouchUpdate(const ETouchIndex::Type FingerIndex, const FVector Location);
+
+	UFUNCTION(BlueprintImplementableEvent)
+	void playSound();
+
 	TouchData	TouchItem;
 	
 protected:
